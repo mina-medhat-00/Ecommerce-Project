@@ -1,4 +1,4 @@
-# Project Description: E-Commerce Website using Django
+# E-Commerce Website using Django
 
 ## Overview
 
